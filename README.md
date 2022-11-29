@@ -1,4 +1,4 @@
-# SUWES-Workshop
+# SUWES-Workshop - C++
 Purpose:
 Inspire and support young minds to learn and create a culture of collaboration and ensure knowledge is shared among all.
 
